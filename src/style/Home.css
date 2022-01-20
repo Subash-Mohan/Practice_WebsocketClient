@@ -1,0 +1,42 @@
+.screen{
+    border: 2px solid aliceblue;
+    width: 100wh;
+    height: 100vh;
+    background-color: aliceblue;
+}
+
+.container{
+    background-color:white;
+    height: 350px;
+    padding: 50px;
+    margin-top: 15%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 25px;
+    clear: both;
+    
+}
+.container:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+input{
+   border-color: black;
+   border-radius: 3px;
+   margin: 50px;
+}
+.m{
+    margin-top: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.form-group{
+    margin-top: 30px;
+}
+.margins{
+    margin-top: 10px;
+}
+.w{
+    width: 500px;
+    margin-left: 30%;
+    margin-top: 10%;
+}

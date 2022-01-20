@@ -1,3 +1,6 @@
+body{
+  border: #61dafb;
+}
 .App {
   text-align: center;
 }
@@ -35,4 +38,7 @@
   to {
     transform: rotate(360deg);
   }
+}
+h5:hover{
+  cursor: pointer;
 }

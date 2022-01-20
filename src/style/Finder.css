@@ -1,0 +1,19 @@
+.screen{
+    border: 2px solid aliceblue;
+    width: 100wh;
+    height: 100vh;
+    background-color: aliceblue;
+}
+.clues{
+    list-style: none;
+    width: 300px;
+    padding:20px;
+    padding-right: 30px;
+    margin-top: 10%;
+    margin-left: 40%;
+
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 25px;
+}
+
